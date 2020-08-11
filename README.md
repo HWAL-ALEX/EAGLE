@@ -1,5 +1,8 @@
 # EAGLE
-You can find here my custom script for use EAGLE CAO
+
+All my design are on EAGLE.
+
+I modified the file EAGLE.src  to add Menu bar.  
 
 In the futur, I will add my libraries files
 
